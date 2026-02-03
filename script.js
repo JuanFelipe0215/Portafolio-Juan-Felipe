@@ -79,7 +79,7 @@ const projects = [
         title: "Moodle - Mascotas",
         category: "riwi-platform",
         desc: "Proyecto de plataforma HTML y CSS",
-        tags: ["Python", "Git"],
+        tags: ["HTML", "Git"],
         img: "https://cdn.pixabay.com/photo/2017/06/23/10/48/code-2434271_1280.jpg",
         live: "https://juanfelipe0215.github.io/Mascotas_moodle_html_css/",
         repo: "https://github.com/JuanFelipe0215/Mascotas_moodle_html_css"
