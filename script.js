@@ -70,7 +70,7 @@ const projects = [
         category: "riwi-platform",
         desc: "Proyecto de plataforma (semana 2).",
         tags: ["Python", "Git"],
-        img: "https://cdn.pixabay.com/photo/2017/06/23/10/48/code-2434271_1280.jpg",
+        img: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&auto=format&fit=crop&q=60",
         live: "https://github.com/JuanFelipe0215/M1_python_moodle_week_2",
         repo: "https://github.com/JuanFelipe0215/M1_python_moodle_week_2"
     },
@@ -80,7 +80,7 @@ const projects = [
         category: "riwi-platform",
         desc: "Proyecto de plataforma HTML y CSS",
         tags: ["Python", "Git"],
-        img: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&auto=format&fit=crop&q=60",
+        img: "https://cdn.pixabay.com/photo/2017/06/23/10/48/code-2434271_1280.jpg",
         live: "https://juanfelipe0215.github.io/Mascotas_moodle_html_css/",
         repo: "https://github.com/JuanFelipe0215/Mascotas_moodle_html_css"
     }
