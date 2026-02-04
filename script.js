@@ -1,9 +1,9 @@
 
 const phrases = [
-    "Holiiii 👋 Soy JuanFe",
+    "Holiiii Soy JuanFe",
     "Frontend con Bootstrap 💚",
     "JavaScript + DOM + UI 🔥",
-    "Portafolios con flow 😤"
+    "Portafolios con flow"
 ];
 
 let pIndex = 0, cIndex = 0, deleting = false;
