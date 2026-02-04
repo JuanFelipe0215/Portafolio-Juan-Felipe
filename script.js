@@ -37,8 +37,8 @@ const projects = [
     {
         id: 1,
         title: "Hoja de vida",
-        category: "personal",
-        desc: "Mi CV web (diseño + estructura).",
+        category: "riwi-profe",
+        desc: "Primera Actividad riwi",
         tags: ["HTML", "CSS"],
         img: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&auto=format&fit=crop&q=60",
         live: "https://juanfelipe0215.github.io/Hoja_de_vida/",
@@ -83,6 +83,16 @@ const projects = [
         img: "https://cdn.pixabay.com/photo/2017/06/23/10/48/code-2434271_1280.jpg",
         live: "https://juanfelipe0215.github.io/Mascotas_moodle_html_css/",
         repo: "https://github.com/JuanFelipe0215/Mascotas_moodle_html_css"
+    },
+    {
+        id: 6,
+        title: "Moodle - JavaScript Mini CRUD",
+        category: "riwi-platform",
+        desc: "Proyecto de plataforma HTML, CSS, BOOTSTRAP, JAVASCRIPT, JSON-SERVER",
+        tags: ["HTML", "CSS", "JavaScript", "Json-Server","Git"],
+        img: "https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550_1280.jpg",
+        live: "https://juanfelipe0215.github.io/JavaScript_moodle/",
+        repo: "https://github.com/JuanFelipe0215/JavaScript_moodle"
     }
 ];
 
